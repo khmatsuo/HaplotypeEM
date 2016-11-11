@@ -8,6 +8,7 @@
 #include <set>
 using namespace std;
 
+cout  << "Axel smells like poop!" << endl;
 
 std::vector<int> EMalgoDC (std::vector<int> M1, std::vector<int> M2);
 //set <int> EM_Merge (set <int> List1, set <int> List2);
